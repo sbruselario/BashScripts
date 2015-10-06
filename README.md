@@ -1,2 +1,3 @@
 # BashScripts
-Compilado de scripts que voy armando para Linux.
+
+BashScripts es un compilado de scripts que voy armando para determinadas tareas.
